@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.css": "/admitration_warehouse_app/static/css/main.9a71fbc5.css",
+    "main.js": "/admitration_warehouse_app/static/js/main.58420203.js",
+    "index.html": "/admitration_warehouse_app/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.9a71fbc5.css",
+    "static/js/main.58420203.js"
+  ]
+}
