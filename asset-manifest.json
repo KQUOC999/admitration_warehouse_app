@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/admitration_warehouse_app/static/css/main.989bc0a6.css",
+    "main.css": "/admitration_warehouse_app/static/css/main.7de900ce.css",
     "main.js": "/admitration_warehouse_app/static/js/main.a780718e.js",
     "static/media/work.mp4": "/admitration_warehouse_app/static/media/work.0c4b3dca9b3b42ee254b.mp4",
     "index.html": "/admitration_warehouse_app/index.html"
   },
   "entrypoints": [
-    "static/css/main.989bc0a6.css",
+    "static/css/main.7de900ce.css",
     "static/js/main.a780718e.js"
   ]
 }
