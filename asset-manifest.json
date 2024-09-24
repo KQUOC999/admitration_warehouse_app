@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/admitration_warehouse_app/static/css/main.5afd08cb.css",
-    "main.js": "/admitration_warehouse_app/static/js/main.30954aa7.js",
+    "main.css": "/admitration_warehouse_app/static/css/main.0adaebe3.css",
+    "main.js": "/admitration_warehouse_app/static/js/main.2c99a85d.js",
     "static/media/work.mp4": "/admitration_warehouse_app/static/media/work.0c4b3dca9b3b42ee254b.mp4",
     "static/media/logo_warehouse.png": "/admitration_warehouse_app/static/media/logo_warehouse.04eb42d61c485275c12f.png",
     "index.html": "/admitration_warehouse_app/index.html"
   },
   "entrypoints": [
-    "static/css/main.5afd08cb.css",
-    "static/js/main.30954aa7.js"
+    "static/css/main.0adaebe3.css",
+    "static/js/main.2c99a85d.js"
   ]
 }
