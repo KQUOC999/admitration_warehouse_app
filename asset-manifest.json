@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/admitration_warehouse_app/static/css/main.f357fdcc.css",
-    "main.js": "/admitration_warehouse_app/static/js/main.3ab78c71.js",
+    "main.css": "/admitration_warehouse_app/static/css/main.290a7d18.css",
+    "main.js": "/admitration_warehouse_app/static/js/main.47ad77e0.js",
     "static/media/work.mp4": "/admitration_warehouse_app/static/media/work.0c4b3dca9b3b42ee254b.mp4",
     "static/media/Logo-DH-Ton-Duc-Thang-TDT.jpg": "/admitration_warehouse_app/static/media/Logo-DH-Ton-Duc-Thang-TDT.79ee1555da40204898d8.jpg",
     "index.html": "/admitration_warehouse_app/index.html"
   },
   "entrypoints": [
-    "static/css/main.f357fdcc.css",
-    "static/js/main.3ab78c71.js"
+    "static/css/main.290a7d18.css",
+    "static/js/main.47ad77e0.js"
   ]
 }
